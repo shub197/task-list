@@ -74,12 +74,6 @@ function App() {
                         }
                     </tbody>
                 </table>
-
-                <table>
-                    <tbody>
-                        <tr></tr>
-                    </tbody>
-                </table>
             </div>
         </div>
     )
